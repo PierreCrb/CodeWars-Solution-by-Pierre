@@ -7,7 +7,7 @@ Also, let's starts :)
 <br>
 <br>
 <br>
-<a href=https://www.codewars.com/users/TehOrange>My</a> current codewars rank:
+<a href=https://www.codewars.com/users/PierreCrb>My</a> current codewars rank:
 <br>
 <br>
 <img src=https://www.codewars.com/users/PierreCrb/badges/large>
